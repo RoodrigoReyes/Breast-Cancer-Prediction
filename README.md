@@ -19,16 +19,16 @@ Attribute Information:
 
 Ten real-valued features are computed for each cell nucleus:
 
-* Radius (mean of distances from center to points on the perimeter)
-* Texture (standard deviation of gray-scale values)
-* Perimeter
-* Area
-* Smoothness (local variation in radius lengths)
-* Compactness (perimeter^2 / area - 1.0)
-* Concavity (severity of concave portions of the contour)
-* Concave points (number of concave portions of the contour)
-* Symmetry
-* Fractal dimension ("coastline approximation" - 1)
+3) Radius (mean of distances from center to points on the perimeter)
+4) Texture (standard deviation of gray-scale values)
+5) Perimeter
+6) Area
+7) Smoothness (local variation in radius lengths)
+8) Compactness (perimeter^2 / area - 1.0)
+9) Concavity (severity of concave portions of the contour)
+10) Concave points (number of concave portions of the contour)
+11) Symmetry
+12) Fractal dimension ("coastline approximation" - 1)
 
 ## Dependencies
 
