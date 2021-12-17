@@ -1,7 +1,7 @@
 # Breast-Cancer-Prediction
 ![alt text](https://www.mdanderson.org/cancerwise/2019/12/6-advances-in-breast-cancer-diagnosis-and-treatment/jcr:content/blog/adaptiveimage.resize.648.0.medium.dir.jpg/1575576924970.jpg)
 
-What is sought is to be able to generate a predictive classification model to determine with the patient's data whether or not she may have breast cancer. The data is provided by Kaggle: [Dataset.](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
+What is sought is to be able to generate a predictive classification model to determine with the patient's data whether or not she may have breast cancer. The data is provided by Kaggle: [Dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 n the 3-dimensional space is that described in: [K. P. Bennett and O. L. Mangasarian: "Robust Linear Programming Discrimination of Two Linearly Inseparable Sets", Optimization Methods and Software 1, 1992, 23-34].
