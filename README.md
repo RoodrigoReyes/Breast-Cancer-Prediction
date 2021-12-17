@@ -25,3 +25,11 @@ Ten real-valued features are computed for each cell nucleus:
 * Concave points (number of concave portions of the contour)
 * Symmetry
 * Fractal dimension ("coastline approximation" - 1)
+
+## Dependencies
+
+| Tables        | Are           |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
