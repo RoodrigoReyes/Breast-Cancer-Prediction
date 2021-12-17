@@ -28,8 +28,12 @@ Ten real-valued features are computed for each cell nucleus:
 
 ## Dependencies
 
-| Tables        | Are           |
-| ------------- |:-------------:|
-|Pandas         ||
-|Numpy          | centered      |
-|zebra stripes  | are neat      |
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Sklearn
+* XGBoost
+* Warnings
+* Graphviz
+* Plotly_express
