@@ -30,6 +30,6 @@ Ten real-valued features are computed for each cell nucleus:
 
 | Tables        | Are           |
 | ------------- |:-------------:|
-| Pandas      | right-aligned |
-| Numpy      | centered      |
-| zebra stripes | are neat      |
+|Pandas         ||
+|Numpy          | centered      |
+|zebra stripes  | are neat      |
