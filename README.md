@@ -37,3 +37,9 @@ Ten real-valued features are computed for each cell nucleus:
 * Warnings
 * Graphviz
 * Plotly_express
+
+
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
